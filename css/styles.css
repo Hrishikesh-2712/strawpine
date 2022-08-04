@@ -1,0 +1,58 @@
+
+body{
+	background-color: #DEDDFA;
+}
+
+/**text stylings*/
+
+h1{
+	font-size:270%;
+}
+
+p{
+	font-size:240%;
+	font-style:italic;
+	color:#6f2979;
+}
+
+
+.and{
+	color:#A635E6;
+	
+}
+
+.tstraw{
+	color:#E33F66;
+
+	
+}
+
+
+.tpine{
+	color:#ff7ffd;
+
+}
+
+/*image stylings*/
+
+.curved{
+	border-radius:12%;
+}
+
+
+img{
+	width:400px;
+	background-color: #DAB8F3;
+}
+
+img:hover{
+	background-color: #EA7AD7;
+}
+
+#straw{
+	
+}
+
+#pine{
+	
+}
